@@ -1,0 +1,9 @@
+C:\Documents and Settings\student\Pulpit\Fa\4,5\Tablice\TablicaOkienko\bin\Debug\TablicaOkienko.exe
+C:\Documents and Settings\student\Pulpit\Fa\4,5\Tablice\TablicaOkienko\bin\Debug\TablicaOkienko.pdb
+C:\Documents and Settings\student\Pulpit\Fa\4,5\Tablice\TablicaOkienko\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\student\Pulpit\Fa\4,5\Tablice\TablicaOkienko\obj\Debug\TablicaOkienko.Properties.Resources.resources
+C:\Documents and Settings\student\Pulpit\Fa\4,5\Tablice\TablicaOkienko\obj\Debug\TablicaOkienko.csproj.GenerateResource.Cache
+C:\Documents and Settings\student\Pulpit\Fa\4,5\Tablice\TablicaOkienko\obj\Debug\TablicaOkienko.exe
+C:\Documents and Settings\student\Pulpit\Fa\4,5\Tablice\TablicaOkienko\obj\Debug\TablicaOkienko.pdb
+C:\Documents and Settings\student\Pulpit\Fa\4,5\Tablice\TablicaOkienko\bin\Debug\Tablice.dll
+C:\Documents and Settings\student\Pulpit\Fa\4,5\Tablice\TablicaOkienko\bin\Debug\Tablice.pdb

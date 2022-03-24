@@ -1,0 +1,11 @@
+C:\Documents and Settings\student\Pulpit\Fa\PrzeciazanieOperatorow\PrzeciazanieOperatorow\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\student\Pulpit\Fa\PrzeciazanieOperatorow\PrzeciazanieOperatorow\bin\Debug\PrzeciazanieOperatorow.exe
+C:\Documents and Settings\student\Pulpit\Fa\PrzeciazanieOperatorow\PrzeciazanieOperatorow\bin\Debug\PrzeciazanieOperatorow.pdb
+C:\Documents and Settings\student\Pulpit\Fa\PrzeciazanieOperatorow\PrzeciazanieOperatorow\obj\Debug\PrzeciazanieOperatorow.exe
+C:\Documents and Settings\student\Pulpit\Fa\PrzeciazanieOperatorow\PrzeciazanieOperatorow\obj\Debug\PrzeciazanieOperatorow.pdb
+C:\Users\Fabian\Desktop\Studia\Studia\ProjektowanieObiektowe\PrzeciazanieOperatorow\PrzeciazanieOperatorow\bin\Debug\PrzeciazanieOperatorow.exe
+C:\Users\Fabian\Desktop\Studia\Studia\ProjektowanieObiektowe\PrzeciazanieOperatorow\PrzeciazanieOperatorow\bin\Debug\PrzeciazanieOperatorow.pdb
+C:\Users\Fabian\Desktop\Studia\Studia\ProjektowanieObiektowe\PrzeciazanieOperatorow\PrzeciazanieOperatorow\obj\Debug\PrzeciazanieOperatorow.csprojAssemblyReference.cache
+C:\Users\Fabian\Desktop\Studia\Studia\ProjektowanieObiektowe\PrzeciazanieOperatorow\PrzeciazanieOperatorow\obj\Debug\PrzeciazanieOperatorow.csproj.CoreCompileInputs.cache
+C:\Users\Fabian\Desktop\Studia\Studia\ProjektowanieObiektowe\PrzeciazanieOperatorow\PrzeciazanieOperatorow\obj\Debug\PrzeciazanieOperatorow.exe
+C:\Users\Fabian\Desktop\Studia\Studia\ProjektowanieObiektowe\PrzeciazanieOperatorow\PrzeciazanieOperatorow\obj\Debug\PrzeciazanieOperatorow.pdb

@@ -1,0 +1,11 @@
+C:\Documents and Settings\student\Pulpit\Fa\WielokatKonsola\WielokatKonsola\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\student\Pulpit\Fa\WielokatKonsola\WielokatKonsola\bin\Debug\WielokatKonsola.exe
+C:\Documents and Settings\student\Pulpit\Fa\WielokatKonsola\WielokatKonsola\bin\Debug\WielokatKonsola.pdb
+C:\Documents and Settings\student\Pulpit\Fa\WielokatKonsola\WielokatKonsola\obj\Debug\WielokatKonsola.exe
+C:\Documents and Settings\student\Pulpit\Fa\WielokatKonsola\WielokatKonsola\obj\Debug\WielokatKonsola.pdb
+C:\Users\Fabian\Desktop\Studia\Studia\Fa\WielokatKonsola\WielokatKonsola\bin\Debug\WielokatKonsola.exe
+C:\Users\Fabian\Desktop\Studia\Studia\Fa\WielokatKonsola\WielokatKonsola\bin\Debug\WielokatKonsola.pdb
+C:\Users\Fabian\Desktop\Studia\Studia\Fa\WielokatKonsola\WielokatKonsola\obj\Debug\WielokatKonsola.csprojAssemblyReference.cache
+C:\Users\Fabian\Desktop\Studia\Studia\Fa\WielokatKonsola\WielokatKonsola\obj\Debug\WielokatKonsola.csproj.CoreCompileInputs.cache
+C:\Users\Fabian\Desktop\Studia\Studia\Fa\WielokatKonsola\WielokatKonsola\obj\Debug\WielokatKonsola.exe
+C:\Users\Fabian\Desktop\Studia\Studia\Fa\WielokatKonsola\WielokatKonsola\obj\Debug\WielokatKonsola.pdb

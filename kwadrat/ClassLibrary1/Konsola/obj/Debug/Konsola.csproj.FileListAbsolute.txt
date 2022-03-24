@@ -1,0 +1,10 @@
+C:\Documents and Settings\student\Pulpit\Fa\BibliotekaKlas\ClassLibrary1\Konsola\bin\Debug\Konsola.exe
+C:\Documents and Settings\student\Pulpit\Fa\BibliotekaKlas\ClassLibrary1\Konsola\bin\Debug\Konsola.pdb
+C:\Documents and Settings\student\Pulpit\Fa\BibliotekaKlas\ClassLibrary1\Konsola\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\student\Pulpit\Fa\BibliotekaKlas\ClassLibrary1\Konsola\obj\Debug\Konsola.exe
+C:\Documents and Settings\student\Pulpit\Fa\BibliotekaKlas\ClassLibrary1\Konsola\obj\Debug\Konsola.pdb
+C:\Documents and Settings\student\Pulpit\Fa\BibliotekaKlas\ClassLibrary1\Konsola\bin\Debug\ClassLibrary1.dll
+C:\Documents and Settings\student\Pulpit\Fa\BibliotekaKlas\ClassLibrary1\Konsola\bin\Debug\ClassLibrary1.pdb
+C:\Documents and Settings\student\Pulpit\Fa\kwadrat\ClassLibrary1\Konsola\obj\Debug\Konsola.exe
+C:\Documents and Settings\student\Pulpit\Fa\kwadrat\ClassLibrary1\Konsola\obj\Debug\Konsola.pdb
+C:\Documents and Settings\student\Pulpit\Fa\kwadrat\ClassLibrary1\Konsola\obj\Debug\ResolveAssemblyReference.cache

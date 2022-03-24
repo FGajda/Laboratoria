@@ -1,0 +1,16 @@
+C:\Documents and Settings\student\Pulpit\Fa\Obsługa wyjątków\Rysowanie\Rysowanie\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\student\Pulpit\Fa\Obsługa wyjątków\Rysowanie\Rysowanie\obj\Debug\Rysowanie.Form1.resources
+C:\Documents and Settings\student\Pulpit\Fa\Obsługa wyjątków\Rysowanie\Rysowanie\obj\Debug\Rysowanie.Properties.Resources.resources
+C:\Documents and Settings\student\Pulpit\Fa\Obsługa wyjątków\Rysowanie\Rysowanie\obj\Debug\Rysowanie.csproj.GenerateResource.Cache
+C:\Documents and Settings\student\Pulpit\Fa\Obsługa wyjątków\Rysowanie\Rysowanie\bin\Debug\Rysowanie.exe
+C:\Documents and Settings\student\Pulpit\Fa\Obsługa wyjątków\Rysowanie\Rysowanie\bin\Debug\Rysowanie.pdb
+C:\Documents and Settings\student\Pulpit\Fa\Obsługa wyjątków\Rysowanie\Rysowanie\obj\Debug\Rysowanie.exe
+C:\Documents and Settings\student\Pulpit\Fa\Obsługa wyjątków\Rysowanie\Rysowanie\obj\Debug\Rysowanie.pdb
+C:\Users\Wojte\Desktop\Rysowanie\Rysowanie\bin\Debug\Rysowanie.exe
+C:\Users\Wojte\Desktop\Rysowanie\Rysowanie\bin\Debug\Rysowanie.pdb
+C:\Users\Wojte\Desktop\Rysowanie\Rysowanie\obj\Debug\Rysowanie.csprojAssemblyReference.cache
+C:\Users\Wojte\Desktop\Rysowanie\Rysowanie\obj\Debug\Rysowanie.Form1.resources
+C:\Users\Wojte\Desktop\Rysowanie\Rysowanie\obj\Debug\Rysowanie.Properties.Resources.resources
+C:\Users\Wojte\Desktop\Rysowanie\Rysowanie\obj\Debug\Rysowanie.csproj.GenerateResource.cache
+C:\Users\Wojte\Desktop\Rysowanie\Rysowanie\obj\Debug\Rysowanie.exe
+C:\Users\Wojte\Desktop\Rysowanie\Rysowanie\obj\Debug\Rysowanie.pdb

@@ -1,0 +1,5 @@
+C:\Documents and Settings\student\Pulpit\Fa\Obsługa wyjątków\konsola\konsola\bin\Debug\konsola.exe
+C:\Documents and Settings\student\Pulpit\Fa\Obsługa wyjątków\konsola\konsola\bin\Debug\konsola.pdb
+C:\Documents and Settings\student\Pulpit\Fa\Obsługa wyjątków\konsola\konsola\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\student\Pulpit\Fa\Obsługa wyjątków\konsola\konsola\obj\Debug\konsola.exe
+C:\Documents and Settings\student\Pulpit\Fa\Obsługa wyjątków\konsola\konsola\obj\Debug\konsola.pdb

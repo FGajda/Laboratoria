@@ -1,0 +1,7 @@
+C:\Documents and Settings\student\Pulpit\Fa\Obsługa wyjątków\klasa\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\student\Pulpit\Fa\Obsługa wyjątków\klasa\bin\Debug\klasa.dll
+C:\Documents and Settings\student\Pulpit\Fa\Obsługa wyjątków\klasa\bin\Debug\klasa.pdb
+C:\Documents and Settings\student\Pulpit\Fa\Obsługa wyjątków\klasa\bin\Debug\Osoba.dll
+C:\Documents and Settings\student\Pulpit\Fa\Obsługa wyjątków\klasa\bin\Debug\Osoba.pdb
+C:\Documents and Settings\student\Pulpit\Fa\Obsługa wyjątków\klasa\obj\Debug\klasa.dll
+C:\Documents and Settings\student\Pulpit\Fa\Obsługa wyjątków\klasa\obj\Debug\klasa.pdb

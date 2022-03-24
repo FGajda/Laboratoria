@@ -1,0 +1,15 @@
+C:\Documents and Settings\student\Pulpit\Fa\4,5\Tablice\TabliceKonsola\bin\Debug\TabliceKonsola.exe
+C:\Documents and Settings\student\Pulpit\Fa\4,5\Tablice\TabliceKonsola\bin\Debug\TabliceKonsola.pdb
+C:\Documents and Settings\student\Pulpit\Fa\4,5\Tablice\TabliceKonsola\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\student\Pulpit\Fa\4,5\Tablice\TabliceKonsola\obj\Debug\TabliceKonsola.exe
+C:\Documents and Settings\student\Pulpit\Fa\4,5\Tablice\TabliceKonsola\obj\Debug\TabliceKonsola.pdb
+C:\Documents and Settings\student\Pulpit\Fa\4,5\Tablice\TabliceKonsola\bin\Debug\Tablice.dll
+C:\Documents and Settings\student\Pulpit\Fa\4,5\Tablice\TabliceKonsola\bin\Debug\Tablice.pdb
+C:\Users\Wojte\Desktop\Fa\4,5\Tablice\TabliceKonsola\obj\Debug\TabliceKonsola.csprojAssemblyReference.cache
+C:\Users\Wojte\Desktop\Fa\4,5\Tablice\TabliceKonsola\obj\Debug\TabliceKonsola.exe
+C:\Users\Wojte\Desktop\Fa\4,5\Tablice\TabliceKonsola\obj\Debug\TabliceKonsola.pdb
+C:\Users\Wojte\Desktop\Fa\4,5\Tablice\TabliceKonsola\bin\Debug\TabliceKonsola.exe
+C:\Users\Wojte\Desktop\Fa\4,5\Tablice\TabliceKonsola\bin\Debug\TabliceKonsola.pdb
+C:\Users\Wojte\Desktop\Fa\4,5\Tablice\TabliceKonsola\bin\Debug\Tablice.dll
+C:\Users\Wojte\Desktop\Fa\4,5\Tablice\TabliceKonsola\bin\Debug\Tablice.pdb
+C:\Users\Wojte\Desktop\Fa\4,5\Tablice\TabliceKonsola\obj\Debug\TabliceKonsola.csproj.CopyComplete

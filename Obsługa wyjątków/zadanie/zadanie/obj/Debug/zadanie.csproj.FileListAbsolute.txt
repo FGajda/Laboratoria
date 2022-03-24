@@ -1,0 +1,5 @@
+C:\Documents and Settings\student\Pulpit\Fa\Obsługa wyjątków\zadanie\zadanie\bin\Debug\zadanie.exe
+C:\Documents and Settings\student\Pulpit\Fa\Obsługa wyjątków\zadanie\zadanie\bin\Debug\zadanie.pdb
+C:\Documents and Settings\student\Pulpit\Fa\Obsługa wyjątków\zadanie\zadanie\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\student\Pulpit\Fa\Obsługa wyjątków\zadanie\zadanie\obj\Debug\zadanie.exe
+C:\Documents and Settings\student\Pulpit\Fa\Obsługa wyjątków\zadanie\zadanie\obj\Debug\zadanie.pdb

@@ -1,0 +1,7 @@
+C:\Documents and Settings\student\Pulpit\Fa\4,5\ClassLibrary4\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Documents and Settings\student\Pulpit\Fa\4,5\ClassLibrary4\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Documents and Settings\student\Pulpit\Fa\4,5\ClassLibrary4\ConsoleApplication1\bin\Debug\ClassLibrary4.dll
+C:\Documents and Settings\student\Pulpit\Fa\4,5\ClassLibrary4\ConsoleApplication1\bin\Debug\ClassLibrary4.pdb
+C:\Documents and Settings\student\Pulpit\Fa\4,5\ClassLibrary4\ConsoleApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\student\Pulpit\Fa\4,5\ClassLibrary4\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Documents and Settings\student\Pulpit\Fa\4,5\ClassLibrary4\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
